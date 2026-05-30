@@ -1,0 +1,16 @@
+a = 15
+b = 4
+soma = a + b
+sub = a - b
+mul = a * b
+div = a / b
+divv = a // b
+mod = a % b
+exp = a ** b
+print(f"{a} + {b} = {soma}")
+print(f"{a} - {b} = {sub}")
+print(f"{a} * {b} = {mul}")
+print(f"{a} / {b} = {div}")
+print(f"{a} // {b} = {divv}")
+print(f"{a} % {b} = {mod}")
+print(f"{a} ** {b} = {exp}")
